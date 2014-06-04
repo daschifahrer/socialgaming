@@ -1,0 +1,15 @@
+2014-06-01 21:15:55,515 - [INFO] - from play in pool-4-thread-4 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2014-06-01 21:16:34,292 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-06-01 21:16:35,952 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-06-01 21:16:55,088 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Requesting Monsters for player: 1608605758
+
+2014-06-01 21:16:55,185 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+found 0Monsters for user 1608605758
+
